@@ -7,15 +7,27 @@ Documentation: [click](./docs/README.md)
 ```shell
 git clone https://github.com/ichetiva/drf-money-managment.git
 ```
-2. Make migrations:
+2. Create virtual enviroment:
+```shell
+python -m venv venv
+```
+3. Activate virtual enviroment:
+```shell
+source ./venv/bin/activate
+```
+4. Install requirements:
+```shell
+pip install -r requirements.txt
+```
+5. Make migrations:
 ```shell
 python manage.py makemigrations
 ```
-3. Do migrations:
+6. Do migrations:
 ```shell
 python manage.py migrate
 ```
-4. Run:
+7. Run:
 ```shell
 python manage.py runserver
 ```
