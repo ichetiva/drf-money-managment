@@ -1,6 +1,6 @@
 # Money Managment powered by Django Rest Framework and Python 3
 
-Documentation: [click](./README.md)
+Documentation: [click](./docs/README.md)
 
 ## Starting:
 1. Clone the repository:
