@@ -1,21 +1,21 @@
 # Documentation for API
 
-## Users
+## [Users](./users/README.md)
 Endpoints:
 - [create](./users/create.md) 
 - [me](./users/me.md)
 
-## Wallet
+## [Wallet](./wallet/README.md)
 Endpoints:
 - [create](./wallet/create.md)
 - [edit](./wallet/edit.md)
 - [delete](./wallet/delete.md)
 - [get](./wallet/get.md)
 
-## Operations
+## [Operations](./operations/README.md)
 Endpoints:
 - [create](./operations/create.md)
 
-## Authorization
+## [Authorization](./authorization/README.md)
 Endpoints:
 - [token](./authorization/token.md)
